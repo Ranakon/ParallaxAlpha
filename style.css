@@ -7,7 +7,6 @@ body{
     /* background:linear-gradient(purple,blue);  */
     height: 100vh;
       overflow-x: hidden; 
- overflow-block: hidden;
     scroll-behavior: smooth;
     color: #000000;
 }
@@ -180,6 +179,7 @@ section #ranakon{
 
 
 }
+
 
 
  
